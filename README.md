@@ -29,3 +29,7 @@ Com essa base, o Gemini Notebook foi utilizado não apenas para consultar concei
 - testar diferentes estratégias de engenharia de prompts.
 
 O projeto busca demonstrar como uma ferramenta de IA baseada em fontes pode ser utilizada como apoio à organização dos estudos, à revisão de conteúdos e à construção de um processo de aprendizagem mais ativo e estruturado.
+
+## Notebook do projeto
+
+🔗 [Acessar o notebook](https://notebook.google.com/notebook/3797ff37-5003-4f8c-84ec-fed3195afe60)
